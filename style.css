@@ -433,6 +433,7 @@
   }
 }
 
+
 :root {
   --main-text-color: #dac9c9;
 }
@@ -442,5 +443,5 @@ p, h1, h2, h3, h4 {
 }
 
 body {
-        background-color: #001122; /* dark blue */
+        background-color: #212529; /* dark blue */
      }
